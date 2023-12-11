@@ -1,0 +1,71 @@
+Name;Model;Manufacturer;Serial;Type
+Computer-ARTY;Dell Inspiron 3671;Dell;567DFG45DFG;PC
+Computer-QUER;Dell XPS 8940;Dell;345UKB78DGH;PC
+Computer-ZYX;HP Pavilion TP01;HP;678JKL90RTY;PC
+Computer-ABC;HP ENVY TE01;HP;890OPQ12WER;PC
+Computer-123;Lenovo ThinkCentre M720;Lenovo;901RST34UVW;PC
+Computer-456;Lenovo Legion T5;Lenovo;234FGH56TUV;PC
+Computer-JKL;MSI Trident 3;MSI;789TUV90ERT;PC
+Computer-ERT;MSI Aegis RS;MSI;012IKL34DFG;PC
+Computer-DFG;LG Ultra PC;LG;890RTY12JKL;PC
+Computer-QWER;Dell Inspiron 3671;Dell;345GHB78ASD;PC
+Computer-UIOP;Dell XPS 8940;Dell;678KLM90QWE;PC
+Computer-ASDF;HP Pavilion TP01;HP;901WER34TYU;PC
+Computer-ZXCV;HP ENVY TE01;HP;234FGH56ERT;PC
+Computer-POIU;Lenovo ThinkCentre M720;Lenovo;567WER78UIO;PC
+Computer-NMJK;Lenovo Legion T5;Lenovo;890DFG12SDF;PC
+Computer-QWER1;MSI Trident 3;MSI;234JKL56FGH;PC
+Computer-UIOP1;MSI Aegis RS;MSI;567QWE78ERT;PC
+Computer-ASDF1;LG Ultra PC;LG;890TYU12FGH;PC
+Computer-ZXCV1;Dell Inspiron 3671;Dell;123UIO45JKL;PC
+Computer-POIU1;Dell XPS 8940;Dell;456DFG78ERT;PC
+Computer-NMJK1;HP Pavilion TP01;HP;789WER90DFG;PC
+Computer-QWER2;HP ENVY TE01;HP;012RTY34SDF;PC
+Computer-UIOP2;Lenovo ThinkCentre M720;Lenovo;345KLM56ERT;PC
+Computer-ASDF2;Lenovo Legion T5;Lenovo;678DFG90JKL;PC
+Computer-ZXCV2;MSI Trident 3;MSI;901QWE12ERT;PC
+Computer-POIU2;MSI Aegis RS;MSI;234TYU45DFG;PC
+Computer-NMJK2;LG Ultra PC;LG;567RTY78JKL;PC
+Computer-QWER3;Dell Inspiron 3671;Dell;890DFG12ERT;PC
+Computer-UIOP3;Dell XPS 8940;Dell;123SDF45FGH;PC
+Computer-ASDF3;HP Pavilion TP01;HP;456JKL78DFG;PC
+Computer-ZXCV3;HP ENVY TE01;HP;789WER90ERT;PC
+Computer-POIU3;Lenovo ThinkCentre M720;Lenovo;012DFG34JKL;PC
+Computer-NMJK3;Lenovo Legion T5;Lenovo;345RTY56SDF;PC
+Computer-QWER4;MSI Trident 3;MSI;678UIO90DFG;PC
+Computer-UIOP4;MSI Aegis RS;MSI;901JKL23ERT;PC
+Computer-ASDF4;LG Ultra PC;LG;234DFG45JKL;PC
+Computer-ZXCV4;Dell Inspiron 3671;Dell;567SDF78ERT;PC
+Computer-POIU4;Dell XPS 8940;Dell;890FGH12JKL;PC
+Computer-NMJK4;HP Pavilion TP01;HP;123RTY45DFG;PC
+Computer-QWER5;HP ENVY TE01;HP;456WER78ERT;PC
+Computer-UIOP5;Lenovo ThinkCentre M720;Lenovo;789JKL90DFG;PC
+Computer-ASDF5;Lenovo Legion T5;Lenovo;012TYU34JKL;PC
+Computer-ZXCV5;MSI Trident 3;MSI;345DFG56ERT;PC
+Computer-POIU5;MSI Aegis RS;MSI;678SDF90JKL;PC
+Computer-NMJK5;LG Ultra PC;LG;901FGH23DFG;PC
+Laptop-ARTY;Dell XPS 13;Dell;567DFG45DFG;Laptop
+Laptop-QUER;HP Spectre x360;HP;345UKB78DGH;Laptop
+Laptop-ZYX;Lenovo ThinkPad X1 Carbon;Lenovo;678JKL90RTY;Laptop
+Laptop-ABC;Apple MacBook Pro;Apple;890OPQ12WER;Laptop
+Laptop-123;Asus ZenBook;Asus;901RST34UVW;Laptop
+Laptop-456;Microsoft Surface Laptop;Microsoft;234FGH56TUV;Laptop
+Laptop-789;Acer Swift;Acer;567JKL78IOP;Laptop
+Laptop-XYZ;Razer Blade;Razer;890WER12FGH;Laptop
+Laptop-POI;LG Gram;LG;123FGH45TYU;Laptop
+Laptop-UJM;Samsung Galaxy Book;Samsung;456OPQ78WER;Laptop
+Laptop-JKL;HP Envy;HP;789TUV90ERT;Laptop
+Laptop-ERT;Dell Latitude;Dell;012IKL34DFG;Laptop
+Laptop-QWE;Lenovo Yoga;Lenovo;345ERT56DFG;Laptop
+Laptop-UIO;Apple MacBook Air;Apple;678DFG90ERT;Laptop
+Laptop-ERTY;Asus ROG Zephyrus;Asus;901FGH23WES;Laptop
+Laptop-HJKL;Microsoft Surface Book;Microsoft;234JKL56ERT;Laptop
+Laptop-FGH;Acer Aspire;Acer;567ERT78DFG;Laptop
+Laptop-DFG;Razer Blade Stealth;Razer;890RTY12JKL;Laptop
+Laptop-WER;LG Gram 17;LG;123YUI45ERT;Laptop
+Laptop-RTY;Samsung Galaxy Flex;Samsung;456JKL78DFG;Laptop
+Laptop-UIO1;HP Envy;HP;789DFG90JKL;Laptop
+Laptop-HJK2;Dell XPS 15;Dell;012JKL34ERT;Laptop
+Laptop-FGH3;Lenovo Legion;Lenovo;345ERT56WER;Laptop
+Laptop-DFG4;Apple MacBook;Apple;678DFG90KJL;Laptop
+Laptop-WER5;Asus ZenBook Flip;Asus;901FGH23IJK;Laptop
